@@ -1,0 +1,5 @@
+
+r	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÚ¥ýÿÿÿÿÿ8Ë¨Ô¨Ê1
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(à‰ºÐúÿÿÿÿ8Î¨Ô¨Ê1
+]	java:S125"<This block of commented-out lines of code should be removed.(Æ›×žúÿÿÿÿ8ÝõÖ¨Ê1
